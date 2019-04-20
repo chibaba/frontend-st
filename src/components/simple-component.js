@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 class SimpleComponent extends Component {
     render() {
         return (
-            <div>Simple Component</div>
+            <div>Simpler Component</div>
         );
     }
 }
